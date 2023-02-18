@@ -4,7 +4,7 @@
   <artifactId>dawi_jpa_maven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>dawi_jpa_maven</name>
-  <description>Proyecto maven integrado con JPA para conexión a bdatos MYSQL.</description>
+  <description>Proyecto maven integrado con JPA para conexión a bdatos MYSQL para GIT.</description>
   
   <properties>
 	  <maven.compiler.source>1.8</maven.compiler.source>
